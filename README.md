@@ -39,9 +39,10 @@ The dataset contains **13,200 records** and **11 features**, including temperatu
 
 | Model                |   Accuracy |
 | -------------------- | ---------: |
-| Gaussian Naive Bayes |     82.35% |
-| Logistic Regression  |     87.01% |
-| **SVM**              | **90.72%** |
+| Gaussian Naive Bayes |     95.51% |
+| Logistic Regression  |     92.34% |
+| SVM Linear           |     96.19%|
+| **SVM RBF**              | **96.71%** |
 
 🏆 **SVM achieved the highest accuracy of 90.72%.**
 
