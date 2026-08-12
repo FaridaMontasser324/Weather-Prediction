@@ -44,7 +44,7 @@ The dataset contains **13,200 records** and **11 features**, including temperatu
 | SVM Linear           |     96.19%|
 | **SVM RBF**              | **96.71%** |
 
-🏆 **SVM achieved the highest accuracy of 90.72%.**
+🏆 **SVM achieved the highest accuracy of 96.71%.**
 
 ## 🚀 Live Demo
 
