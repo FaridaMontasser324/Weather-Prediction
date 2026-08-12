@@ -52,12 +52,7 @@ The dataset contains **13,200 records** and **11 features**, including temperatu
 
 The interactive Gradio interface allows users to enter weather conditions and get a predicted weather type.
 
-## 📂 Files
-
-* `weather-prediction.ipynb` — Complete project notebook
-* `seattle-weather.csv` — Dataset
-
 ## 🎯 Conclusion
 
-The project demonstrates how Machine Learning can be used to classify weather conditions. Among the tested models, **SVM performed the best**, achieving an accuracy of **90.72%**.
+The project demonstrates how Machine Learning can be used to classify weather conditions. Among the tested models, **SVM_RBF performed the best**, achieving an accuracy of **96.71%**.
 
